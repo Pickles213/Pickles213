@@ -15,9 +15,9 @@
 ---
 
 ### About Me
-- 3rd-rear BS Computer Science Major in CVSU - Main 
+- 3rd-yrear BS Computer Science in Cavite State University - Main 
 - Currently learning UI/UX design and API integration
-- I enjoy building system while learning new technologies.  
+- I enjoy building system while learning new technologies
 - Reach me at michaelserds213@gmail.com
 
 ---
