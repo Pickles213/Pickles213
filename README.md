@@ -22,7 +22,7 @@
 
 ---
 
-### Tech Stack
+### Tech Stack & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,java,py,php,mysql,react,github,vscode,figma&perline=10" />
 </p>
