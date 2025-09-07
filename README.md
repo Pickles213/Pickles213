@@ -7,8 +7,9 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=1000&color=6E6E6E&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Aspiring+Fullstack+Developer;Coffee+%2B+Code+Lifestyle" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=1000&color=6E6E6E&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Coffee+%2B+Code+Lifestyle" alt="Typing SVG" />
   </a>
+  <h3 align="center">Coding My Way Through College in the Philippines</h3>
 </p>
 
 ---
