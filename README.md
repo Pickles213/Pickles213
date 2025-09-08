@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm John Michael Serdon</h1>
+<h1 align="center">Hello! I'm John Michael Serdon!</h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e4ac7856-2d63-49ff-b990-8005d8df086f" alt="github pic" width="80%" />
