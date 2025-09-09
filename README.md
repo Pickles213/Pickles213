@@ -31,7 +31,7 @@
 
 ### GitHub Stats
 <p align="center">
-  <img alt="streak stats" src="https://streak-stats.demolab.com?user=Pickles213&theme=transparent&border_radius=10" height="150" />
+  <img alt="streak stats" src="https://streak-stats.demolab.com?user=Pickles213&theme=transparent&border_radius=10" height="150"/>
   <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pickles213&layout=compact&theme=transparent&langs_count=6" height="150" />
 </p>
 
